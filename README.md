@@ -12,10 +12,9 @@ This repository presents a comparative study of four deep learning architectures
 
 ## Evaluation Metrics
 
-- Accuracy
-- Precision
-  
-- Recall
+ Accuracy
+ Precision
+ Recall
 
   ## Results Summary
 
