@@ -14,6 +14,7 @@ This repository presents a comparative study of four deep learning architectures
 
 - Accuracy
 - Precision
+  
 - Recall
 
   ## Results Summary
